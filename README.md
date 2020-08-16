@@ -9,8 +9,8 @@ The goal of the project is to develop cloudformation scripts to deploy web serve
 how is the project implemented ?
 ------------------------------
 there are two parts in this project 
-    - network script
-    - servers script
+- network script
+- servers script
 
 
 how to run it ?
