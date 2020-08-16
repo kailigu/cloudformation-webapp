@@ -1,0 +1,11 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdacityProject2"
+    },
+
+    {
+        "ParameterKey": "EC2InstanceProfileRole",
+        "ParameterValue": "arn:aws:iam::194430994144:instance-profile/ReadS3ForEC2"
+    }
+]
